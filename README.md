@@ -4,7 +4,7 @@ Jupyter Notebook of Logistic Regression with a neural network mindset on image d
 <!DOCTYPE html>
 <html>
   <head>
-    <title></title>
+    
   </head>
   <body>
     <img src="https://github.com/joyontadasjoy/Logistic_Regression_with_a_Neural_Network_mindset/blob/main/LogReg_kiank.png" width="600">
